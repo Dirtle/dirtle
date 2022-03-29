@@ -1,4 +1,5 @@
 const targetWords = [
+  "chode",
   "balls",
   "Blowy",
   "fetus",
