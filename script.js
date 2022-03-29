@@ -36,7 +36,7 @@ const targetWords = [
   "sperm",
 ]
 
-const Dictionary = targetWord
+const dictionary = targetWord
 
 const WORD_LENGTH = 5
 const FLIP_ANIMATION_DURATION = 500
