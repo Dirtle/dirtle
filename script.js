@@ -37,7 +37,7 @@ const targetWords = [
   "sperm", 
   "bitch", "boner", "boobs", "booty", "busty", "camel", "cocks", "coons", "dildo", "dirty", "doggy", "ecchi", "fecal", "felch", "group", "horny", "jelly", "donut", "juggs", "kinky", "trois", "mound", "hands", "diver", "girls", "panty", "penis", "chest", "porno", "pubes", "pussy", "queaf", "queef", "boner", "semen", "pussy", "skeet", "spunk", "dildo", "strip", "doggy", "sucks", "girls", "women", "taste", "tight", "titty", "tushy", "twink", "girls", "vulva", "whore", "yiffy"]
 
-const dictionary = targetWord
+const dictionary = targetWords
 
 const WORD_LENGTH = 5
 const FLIP_ANIMATION_DURATION = 500
