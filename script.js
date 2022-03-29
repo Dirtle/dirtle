@@ -1,4 +1,6 @@
 const targetWords = [
+  "titty",
+  "thots",
   "chode",
   "balls",
   "Blowy",
@@ -42,7 +44,7 @@ const targetWords = [
   "choke",
   "chain",
   "sperm", 
-  "bitch", "boner", "boobs", "booty", "busty", "camel", "cocks", "coons", "dildo", "dirty", "doggy", "ecchi", "fecal", "felch", "group", "horny", "jelly", "donut", "juggs", "kinky", "trois", "mound", "hands", "diver", "girls", "panty", "penis", "chest", "porno", "pubes", "pussy", "queaf", "queef", "boner", "semen", "pussy", "skeet", "spunk", "dildo", "strip", "doggy", "sucks", "girls", "women", "taste", "tight", "titty", "tushy", "twink", "girls", "vulva", "whore", "yiffy"]
+  "bitch", "boner", "boobs", "booty", "busty", "camel", "cocks", "coons", "dildo", "dirty", "doggy", "fecal", "felch", "group", "horny", "juggs", "kinky", "penis", "chest", "porno", "pubes", "pussy", "queef", "boner", "semen", "pussy", "skeet", "spunk", "dildo", "strip", "doggy", "tight", "titty", "tushy","vulva", "whore"]
 
 const dictionary = targetWords
 
