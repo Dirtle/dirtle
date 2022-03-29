@@ -158,7 +158,7 @@ function submitGuess() {
   }, "")
 
   if (!targetWords.includes(guess) && !dictionary.includes(guess)) {
-    showAlert("Not in bird list")
+    showAlert("Not in this cunts library")
     shakeTiles(activeTiles)
     return
   }
@@ -286,7 +286,7 @@ function checkWinLose(guess, tiles) {
 
   if (guess === targetWord) {
     stopInteraction()
-    const compliments = ["Genius", "Magnificent", "Impressive", "Splendid", "Great", "Phew"]
+    const compliments = ["Dirty minded bastard", "Shagger extraordinaire", "Top Shagger", "Average Shagger", "You got there", "Phew"]
     showAlert(compliments[usedRows - 1], 5000)
     danceTiles(tiles)
   } else if (remainingRows === 0) {
