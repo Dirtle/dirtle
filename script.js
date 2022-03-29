@@ -1,4 +1,8 @@
 const targetWords = [
+  "balls",
+  "Blowy",
+  "fetus",
+  "cummy",
   "nonce", 
   "sluts",
   "pussy",
@@ -20,6 +24,8 @@ const targetWords = [
   "cocks",
   "clits",
   "cummy",
+  "twats",
+  "mummy",
   "daddy",
   "dildo",
   "fanny",
